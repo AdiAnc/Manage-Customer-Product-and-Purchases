@@ -1,5 +1,12 @@
 # Manage-Customer-Product-and-Purchases
 
+
+
+
+https://github.com/user-attachments/assets/174d91c4-d602-418c-ac51-ad81582d041f
+
+
+
 # “Menu” Page
 A page with 3 links :
 ”Products” – redirect to “Products” page
